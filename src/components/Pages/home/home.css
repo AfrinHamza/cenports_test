@@ -1,0 +1,18 @@
+.home{
+    flex: 3;
+}
+
+.IconLabelButtons{
+    display: flex;
+}
+
+.topic{
+    margin-top: 6px;
+    border-radius: 1;
+    font-size: 22px;
+    font-family: Calibri;
+    font-weight: bolder;
+    padding: 10px;
+    
+}
+

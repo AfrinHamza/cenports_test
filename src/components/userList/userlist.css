@@ -1,0 +1,11 @@
+.table {
+    width: min-content;
+}
+
+.GridColDef{
+    align-content:center;
+}
+
+.columns{
+    align-items: center;
+}

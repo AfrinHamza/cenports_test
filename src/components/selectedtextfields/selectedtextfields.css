@@ -1,0 +1,16 @@
+.Widgets{
+    display: flex;
+    margin: 12px;
+    padding: 5px;
+}
+
+.btnnx{
+    display: flex;
+    height: 70px;
+}
+
+.buttond{
+    padding: 10px;
+   
+}
+

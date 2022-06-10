@@ -1,0 +1,39 @@
+/* .featuredItem{
+    height:100px;
+    display: flex;
+}
+.textfield{
+   top:10px;
+   /* left:30%; */
+   /* align-items: right;
+   height: 30px;
+   padding: 10px;
+   margin: 8px; */
+   /* height: 10px; */
+ 
+/* }
+.setting{
+   
+    margin: 25px;
+    /* margin-left: 30%; */
+/* }
+h5{
+ margin-left:55%;
+ padding-top: 10px;
+ font-size: 14px;
+} */
+/* h3{
+    font-style: Open Sans;
+    clear: both;
+    display: inline-block;
+    /* overflow: hidden; */
+    /* white-space: nowrap;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}  */ 
+
+.Header{
+    margin: 10px 20px;
+    box-sizing: border-box;
+}
